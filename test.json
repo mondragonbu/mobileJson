@@ -1,6 +1,6 @@
 
 { 
-      name:"John" 
+      "name":"John" 
       "age":29,
       "secretIdentity":"Dan Jukes"
 }
