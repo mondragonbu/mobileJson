@@ -1,9 +1,10 @@
-
-{ 
-      "name":"John" 
-      "age":"29",
-      "secretIdentity":"Dan Jukes"
+{
+   "name": "mikel",
+   "age": "23",
+   "secretIdentity": "aaaa",
+   "traceparent": "00-7f4ea240feffe3c7e05aa4ec08937816-a174963377ed2537-00",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36",
+   "Host": "headers.jsontest.com",
+   "Accept-Language": "es-ES,es;q=0.9"
 }
-
-
     
