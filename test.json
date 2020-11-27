@@ -1,6 +1,5 @@
-{
-   "name": "mikel",
-   "score": "23",
-   "image": "1"
-}
+[  
+    {"name":"Ram", "score":"23", image:"2"},  
+    {"name":"Bob", "score":"25", image:"1"},  
+]  
     
