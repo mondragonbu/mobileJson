@@ -1,12 +1,17 @@
 [
-{
-   "name": "mikel",
-   "score": "23",
-   "image": "1"
-},
-   {
-   "name": "mikel2",
-   "score": "23",
-   "image": "1"
-}
+    {
+    "name": "BagginsBest",
+    "score": "8500",
+    "image": "1"
+    },
+    {
+    "name": "AnaBohuel",
+    "score": "9650",
+    "image": "1"
+    },
+    {
+    "name": "Rosamelan",
+    "score": "6800",
+    "image": "1"
+    }                                                            
 ]
