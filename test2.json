@@ -1,11 +1,56 @@
 [
     {
-    "name": "mikel",
-    "score": "15000",
+    "name": "Mikel",
+    "score": "1500",
+    "image": "4"
+    },
+    {
+    "name": "Ruben",
+    "score": "9999",
+    "image": "4"
+    },
+    {
+    "name": "Ander",
+    "score": "1000",
     "image": "1"
     },
     {
-    "name": "elpapa",
+    "name": "Zatu",
+    "score": "1250",
+    "image": "1"
+    },
+    {
+    "name": "Kase O",
+    "score": "3030",
+    "image": "0"
+    },
+    {
+    "name": "Naruto",
+    "score": "5930",
+    "image": "1"
+    },
+    {
+    "name": "Willyrex",
+    "score": "4777",
+    "image": "1"
+    },
+    {
+    "name": "Adolf",
+    "score": "1088",
+    "image": "2"
+    },
+    {
+    "name": "Patxi",
+    "score": "8068",
+    "image": "0"
+    },
+    {
+    "name": "Josefina",
+    "score": "1500",
+    "image": "3"
+    },
+    {
+    "name": "El Papa",
     "score": "20000",
     "image": "2"
     }                                                                   
